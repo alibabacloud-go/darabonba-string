@@ -1,5 +1,6 @@
 English | [简体中文](README-CN.md)
-![](https://aliyunsdk-pages.alicdn.com/icons/AlibabaCloud.svg)
+
+![Darabonba Logo](https://aliyunsdk-pages.alicdn.com/icons/dara_logo.svg)
 
 ## Alibaba Cloud Darabonba String for Go
 
@@ -23,6 +24,6 @@ Detailed changes for each release are documented in the [release notes](./Change
 * [Latest Release](https://github.com/aliyun/darabonba-string/releases)
 
 ## License
-[Apache-2.0](http://www.apache.org/licenses/LICENSE-2.0)
+[Apache-2.0](https://www.apache.org/licenses/LICENSE-2.0)
 
 Copyright (c) 2009-present, Alibaba Cloud All rights reserved.
